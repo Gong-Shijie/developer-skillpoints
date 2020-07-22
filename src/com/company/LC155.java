@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Stack;
 
-class MinStack
+ class MinStack
 {//维护最小值的栈  通过让栈顶部始终保持最小值来实现，每次push一个当前值和最小值
     Stack mStack;
     /** initialize your data structure here. */

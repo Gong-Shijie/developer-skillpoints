@@ -9,7 +9,7 @@ public class LC112 {
         t2.right = t3;
         t1.left = t3;
 
-        System.out.println(hasPathSum(t1, 1));
+        System.out.println(hasPathSum2(t1, 1));
     }
 
     public static class TreeNode {
@@ -22,7 +22,7 @@ public class LC112 {
         }
     }
 
-    public static boolean hasPathSum(TreeNode root, int sum) {
+    public static boolean hasPathSum2(TreeNode root, int sum) {
         if (root == null) {
             if (sum == 0)
                 return true;
@@ -52,6 +52,15 @@ public class LC112 {
         if (root.left == null && root.right != null)
             return dfs(add, sum, root.right) ;
         return false;
+    }
+
+    public boolean hasPathSum(TreeNode root, int sum) {
+        if(root == null)
+            return false;
+        if(root.left==null && root.right == null && sum == root.val){
+            return true;
+        }
+        return hasPathSum(root.left,sum - root.val)||hasPathSum(root.right,sum-root.val);
     }
 }
 
