@@ -1,5 +1,3 @@
-[内存管理](https://github.com/Gong-Shijie/developer-skillpoints/blob/master/source/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md)
-
 # 1.操作系统
 
 ## 进程管理 
