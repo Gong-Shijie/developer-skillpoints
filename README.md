@@ -30,7 +30,7 @@
 
 ## 链表 
 
-## 树 
+## [树](https://github.com/Gong-Shijie/developer-skillpoints/blob/master/source/%E6%A0%91.md)  
 
 ## 栈/队列 
 
@@ -76,7 +76,7 @@
 
 ### 链表 
 
-### [树](https://github.com/Gong-Shijie/developer-skillpoints/blob/master/source/%E6%A0%91.md)  
+### 树 
 
 ### 栈/队列 
 
@@ -100,7 +100,8 @@
 
 ### 排序 
 
-### 双指针 
+### [双指针](https://github.com/Gong-Shijie/developer-skillpoints/blob/master/source/%E5%8F%8C%E6%8C%87%E9%92%88.md)
+
 
 ### 贪心 
 
