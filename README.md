@@ -30,7 +30,7 @@
 
 ## 链表 
 
-## [树](https://github.com/Gong-Shijie/developer-skillpoints/blob/master/source/%E6%A0%91.md)  
+## [树](https://github.com/Gong-Shijie/developer-skillpoints/blob/master/source/%E6%A0%91.md)
 
 ## 栈/队列 
 
