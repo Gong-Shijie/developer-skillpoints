@@ -24,7 +24,7 @@
 
 ## [数据链路层](https://github.com/Gong-Shijie/developer-skillpoints/blob/master/source/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82.md)  
 
-## [物理层]
+## 物理层
 
 ## HTTP/HTTPS
 
