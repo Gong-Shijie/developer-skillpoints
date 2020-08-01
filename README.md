@@ -125,6 +125,32 @@ public class LRUCache {
 
 ### 数组 矩阵 
 
+[415\. 字符串相加](https://leetcode-cn.com/problems/add-strings/)  
+
+![](https://upload-images.jianshu.io/upload_images/19741117-f1c2dcbbde6b1929.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
+
+```
+
+    public String addStrings(String num1, String num2) {
+        StringBuffer result = new StringBuffer();
+        int i = num1.length() - 1;
+        int j = num2.length() - 1;
+        int carry = 0, add2 = 0, add1 = 0, sum = 0;
+        while (i >= 0 || j >= 0 || carry != 0) {
+            add1 = i >= 0 ? num1.charAt(i) - '0' : 0;
+            add2 = j >= 0 ? num2.charAt(j) - '0' : 0;
+            sum = (add1 + add2 + carry);
+            carry = sum / 10;
+            result.append(sum % 10);
+            i--;
+            j--;
+        }
+        return result.reverse().toString();
+    }
+
+```
+
+
 ### 图 
 
 ### 位运算 
