@@ -127,7 +127,7 @@ public class LRUCache {
 
 [415\. 字符串相加](https://leetcode-cn.com/problems/add-strings/)  
 
-![](https://upload-images.jianshu.io/upload_images/19741117-f1c2dcbbde6b1929.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
+![](https://upload-images.jianshu.io/upload_images/19741117-f1c2dcbbde6b1929.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ```
 
