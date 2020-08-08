@@ -90,7 +90,7 @@
 
 ### 哈希表 
 
-### 字符串 
+### [字符串](https://github.com/Gong-Shijie/developer-skillpoints/blob/master/source/%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
 ### [组 矩阵](https://github.com/Gong-Shijie/developer-skillpoints/blob/master/source/%E6%95%B0%E7%BB%84%20%E7%9F%A9%E9%98%B5.md)
 
