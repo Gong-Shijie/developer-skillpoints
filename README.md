@@ -38,7 +38,7 @@
 
 ## 哈希表 
 
-## 字符串 
+## [字符串](https://github.com/Gong-Shijie/developer-skillpoints/blob/master/source/%E5%AD%97%E7%AC%A6%E4%B8%B2.md) 
 
 ## 数组 
 
