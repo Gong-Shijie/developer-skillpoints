@@ -32,13 +32,13 @@
 
 ## 链表 
 
-## [树](https://github.com/Gong-Shijie/developer-skillpoints/blob/master/source/%E6%A0%91.md)
+## 树
 
 ## 栈/队列 
 
 ## 哈希表 
 
-## [字符串](https://github.com/Gong-Shijie/developer-skillpoints/blob/master/source/%E5%AD%97%E7%AC%A6%E4%B8%B2.md) 
+## 字符串
 
 ## 数组 
 
@@ -84,7 +84,7 @@
 
 ### 链表 
 
-### 树 
+### [树](https://github.com/Gong-Shijie/developer-skillpoints/blob/master/source/%E6%A0%91.md) 
 
 ### 栈/队列 
 
