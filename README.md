@@ -36,8 +36,8 @@
 
 ## HTTP/HTTPS
 HTTPS 多一层 TLS / SSL 层不再面文传输数据  
-CA：数字证书，权威机构发布，里面有 公钥  
-![](https://upload-images.jianshu.io/upload_images/19741117-f9f4d1c73db679c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+CA：数字证书，权威机构发布，里面有 公钥
+![](https://upload-images.jianshu.io/upload_images/19741117-f9f4d1c73db679c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
 
 
 # 3. 数据结构 
